@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Da+2&display=swap');
+
+*{
+    background-color: #F8F9FA;
+}
+.nav-logo{
+    font-size: 30px;
+    font-weight: 400;
+    font-family: 'Baloo Da 2', cursive;
+    color: #390440;
+}
+.title{
+    font-family: 'Baloo Da 2', cursive;
+    text-align: center;
+    font-weight: 200;
+}
+.service{
+    width: 700px;
+    text-align: center;
+    margin: auto;
+}
+
+.service img{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
